@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Fredoka+One&family=Montserrat:ital,wght@1,300&family=Noto+Sans+TC&family=Unbounded:wght@200&display=swap');
+.animate__bounceIn{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+h1{
+    font-family: 'Noto Sans TC';
+    font-weight: bold;
+}
+.texto_bienvenida{
+    font-family: 'Noto Sans TC';
+    margin-left: 110px;
+    width: 600px;
+}
+.nav-link{
+    color: #3636ff;
+    font-family: 'Noto Sans TC';
+    font-weight: bold;
+}
+footer{
+    background-color: #3636ff;
+}
+.texto_footer{
+    color: white;
+    font-family: 'Noto Sans TC';
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
