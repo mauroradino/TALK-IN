@@ -19,6 +19,7 @@ h1{
 }
 footer{
     background-color: #3636ff;
+    margin-top: 1000px;
 }
 .texto_footer{
     color: white;
@@ -28,4 +29,23 @@ footer{
     padding-bottom: 20px;
     display: flex;
     justify-content: center;
+}
+.index{
+    display: flex;
+}
+.bienvenida{
+    display: inline-block;
+}
+.banner_index{
+    display: inline-flex;
+    width: 600px;
+    margin-left: 200px;
+}
+.idioma{
+    list-style-type: none;
+    margin-right: 100px;
+    color: #3636ff;
+}
+.ingles{
+    border-radius: 2px;
 }
